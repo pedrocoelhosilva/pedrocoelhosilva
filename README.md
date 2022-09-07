@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pedrocoelhosilva
 - 👀 I’m interested in data and platforms, but also tech in general
-- 🌱 I’m currently learning python
+- 🌱 I’m currently focused on product management of technical products
 
 
 <!---
